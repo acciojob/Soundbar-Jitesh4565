@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+*{
+	background-color:#a164df;
+}
+.btn{
+	background-color:#663399;
+	color:white;
+	padding:15px
+}
+section{
+	display:flex;
+	align-items:center;
+	justify-content:space-around;
+	height:100vh;
+}
